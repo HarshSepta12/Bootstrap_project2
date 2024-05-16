@@ -1,0 +1,26 @@
+.radious{
+    border-radius: 100%;
+}
+.gray{
+    background-color: #e6e9e9;
+}
+.width{
+    width: 90%;
+    height: 250px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.mt-5{
+    margin-top: 7rem !important;
+}
+.set{
+    width: 80%;
+    margin: auto;
+}
+.chaya{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.center{
+    margin-left: 23rem;
+}
